@@ -1,7 +1,7 @@
 {
   "name": "Modul Ajar Digital",
   "short_name": "ModulAjar",
-  "start_url": "https://www.modulajardigital.id/",
+  "start_url": "https://www.modulajardigital.id",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
